@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        style="@style/TitleStyle"
+        android:text="功能列表" />
+
+
+    <com.xiao.mobilephonesafe.view.FocusTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:padding="5dp"
+        android:singleLine="true"
+        android:text="四是四，十是十，十四是十四，四十是四十。四四四，十十十，是是是~~~~~"
+        android:textColor="#000">
+    </com.xiao.mobilephonesafe.view.FocusTextView>
+        <GridView
+            android:id="@+id/gv_home"
+            android:numColumns="3"
+            android:layout_width="match_parent"
+            android:verticalSpacing="10dp"
+            android:layout_height="match_parent">
+        </GridView>
+
+
+</LinearLayout>

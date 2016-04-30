@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_trojan.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_trojan.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_netmanager.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_netmanager.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_settings.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_settings.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_tools.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_tools.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_callmsgsafe.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_safe.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_safe.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_taskmanager.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_taskmanager.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\launcher_bg.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\launcher_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_apps.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_apps.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\mobilesafe\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\home_sysoptimize.png",
+        "source": "E:\\AndroidStudioProjects\\mobilesafe\\app\\src\\main\\res\\mipmap-hdpi\\home_sysoptimize.png"
+    }
+]
