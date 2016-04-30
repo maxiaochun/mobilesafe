@@ -17,7 +17,7 @@ import com.xiao.mobilephonesafe.Utils.SpUtil;
  */
 public class SetupOverActivity extends Activity {
 
-    private TextView tv_phone;
+    private TextView     tv_phone;
 
     @Override
     public void onCreate(Bundle savedInstanceState ) {
